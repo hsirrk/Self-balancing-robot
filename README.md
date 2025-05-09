@@ -1,5 +1,8 @@
 # Self-Balancing Two-Wheeled Robot
 
+![image](https://github.com/user-attachments/assets/14f84712-e14a-48da-8cdc-3d00c573d219)
+
+
 This project focuses on designing and implementing a self-balancing two-wheeled robot capable of maintaining its upright position and recovering from up to a 15° tilt.
 
 Balance Control System
